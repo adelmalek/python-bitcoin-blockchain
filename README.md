@@ -2,4 +2,4 @@
 
 - Cryptocurrencies and blockchain technology is the most popular field today.
 - I created my own cryptocurrency with blockchain.
-- Basod on video by Programozás Karrier : https://www.youtube.com/watch?v=V0skY96Z52Q
+- Based on video by Programozás Karrier : https://www.youtube.com/watch?v=V0skY96Z52Q
