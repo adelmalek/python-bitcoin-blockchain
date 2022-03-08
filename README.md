@@ -1,4 +1,4 @@
-# Bitcoin blockschain
+# Bitcoin blockchain
 
 - Cryptocurrencies and blockchain technology is the most popular field today.
 - I created my own cryptocurrency with blockchain.
